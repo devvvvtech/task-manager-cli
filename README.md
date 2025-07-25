@@ -8,7 +8,7 @@ Built using Object-Oriented Programming, Java Collections, Enums, and File I/O.
 ## 🚀 Features
 
 - Add tasks with title, description, due date
-- Mark tasks as completed.
+- Mark tasks as completed
 - Delete tasks by ID
 - Sort by due date or status
 - Save/load tasks using a file
